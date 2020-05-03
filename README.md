@@ -4,3 +4,4 @@ seeP folder contains the images (bedroom and living room) and the trained model 
 seePdemo folder contains the training images (image) and the videos (only for testing) for detecting if human is in the proper filed of view of the camera/robot. Although I used the same CNN model in seeP and seePdemo, but the training data were collected separately.
 
 
+Full details here: https://drive.google.com/drive/folders/18MKW63D7lp7OmohmXk34v86eu3g96rT8?usp=sharing
